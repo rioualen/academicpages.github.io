@@ -1,7 +1,7 @@
 ---
 title: "HTS-Net: An integrated regulome-interactome approach for establishing network regulation models in high-throughput screenings"
 collection: publications
-permalink: /publication/2017-09-26_htsnet_paper
+permalink: /publications/2017-09-26_htsnet_paper
 excerpt: '...'
 date: 2017-09-26
 venue: 'Plos One'

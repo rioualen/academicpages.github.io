@@ -1,7 +1,7 @@
 ---
 title: "Sequanix: A Dynamic Graphical Interface for Snakemake Workflows"
 collection: publications
-permalink: /publication/2018-01-19_sequanix_paper
+permalink: /publications/2018-01-19_sequanix_paper
 excerpt: '...'
 date: 2018-01-19
 venue: 'Bioinformatics'

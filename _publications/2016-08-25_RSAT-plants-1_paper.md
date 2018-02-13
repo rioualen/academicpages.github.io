@@ -1,7 +1,7 @@
 ---
 title: "RSAT::Plants: Motif Discovery in ChIP-Seq Peaks of Plant Genomes"
 collection: publications
-permalink: /publication/2016-08-25_RSAT-plants-1_paper
+permalink: /publications/2016-08-25_RSAT-plants-1_paper
 excerpt: '...'
 date: 2016-08-25
 venue: 'Methods in Molecular Biology'
