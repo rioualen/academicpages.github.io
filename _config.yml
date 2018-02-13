@@ -83,7 +83,7 @@ author:
   bio              : "Your biography for the left-hand sidebar"
   location         : "Marseille, France"
   employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : 
   email            : 
   uri              :
   bitbucket        :
@@ -95,13 +95,13 @@ author:
   github           : "rioualen"
   google_plus      :
   keybase          :
-  instagram        : https://www.instagram.com/rioualenc/
+  instagram        : "rioualenc"
   lastfm           :
-  linkedin         : https://www.linkedin.com/in/claire-rioualen/
-  orcid            : " https://orcid.org/0000-0002-7684-8679"
+  linkedin         : "claire-rioualen"
+  orcid            : "0000-0002-7684-8679"
   pinterest        :
   soundcloud       :
-  stackoverflow    : http://stackoverflow.com/users/1829905/rioualen
+  stackoverflow    : "1829905/rioualen"
   steam            :
   tumblr           :
   twitter          : #"replacethistwitterhandle"
@@ -110,6 +110,8 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+
+# Reasearch gate https://www.researchgate.net/profile/Claire_Rioualen
 
 
 # Reading Files
