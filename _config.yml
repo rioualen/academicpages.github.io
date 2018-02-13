@@ -80,11 +80,11 @@ analytics:
 author:
   name             : "Claire Rioualen"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "..."
   location         : "Marseille, France"
   employer         :
-  googlescholar    : 
-  email            : 
+  googlescholar    :
+  email            :
   uri              :
   bitbucket        :
   codepen          :
