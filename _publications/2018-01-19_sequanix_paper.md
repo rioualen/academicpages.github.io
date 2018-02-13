@@ -12,19 +12,18 @@ citation: 'Dimitri Desvillechabrol, Rachel Legendre, Claire Rioualen, Christiane
 [Preprint available here](https://www.biorxiv.org/content/early/2017/07/12/162701)
 
 
-Abstract
+**Abstract**
 
-Summary
-
+**Summary.**
 We designed a PyQt graphical user interface—Sequanix—aimed at democratizing the use of Snakemake pipelines in the NGS space and beyond. By default, Sequanix includes Sequana NGS pipelines (Snakemake format) (http://sequana.readthedocs.io), and is also capable of loading any external Snakemake pipeline. New users can easily, visually, edit configuration files of expert-validated pipelines and can interactively execute these production-ready workflows. Sequanix will be useful to both Snakemake developers in exposing their pipelines and to a wide audience of users.
 
-Availability and implementation
+**Availability and implementation.**
 Source on http://github.com/sequana/sequana, bio-containers on http://bioconda.github.io and Singularity hub (http://singularity-hub.org).
 
-Contact
+**Contact.**
 dimitri.desvillechabrol@pasteur.fr or thomas.cokelaer@pasteur.fr
 
-Supplementary information
+**Supplementary information.**
 Supplementary data are available at Bioinformatics online.
 
 
