@@ -2,7 +2,7 @@
 title: "7th Santorini Conference on Biology Prospective"
 collection: talks
 type: "Talk"
-permalink: /talks/2014-09-24-Santorini
+permalink: /talks/2014-09-24_Santorini_talk
 venue: "Petros M. Nomikos Conference Centre"
 date: 2014-09-24
 location: "Fira, Santorini, Greece"
