@@ -1,6 +1,6 @@
 ---
 title: "SnakeChunks"
-excerpt: "SnakeChunks<br/><img src='snakechunks.png'>"
+excerpt: "SnakeChunks<br/><img src='images/snakechunks.png'>"
 collection: portfolio
 ---
 
