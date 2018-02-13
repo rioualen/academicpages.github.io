@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/2014-09-07_ECCB_Strasbourg_poster
 venue: "Strasbourg Congress Centre"
-date: Sept 7th - Sept 10th, 2014
+date: 2014-09-07
 location: "Strasbourg, France"
 ---
 
