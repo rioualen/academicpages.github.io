@@ -2,7 +2,7 @@
 title: "RSAT::Plants: Motif Discovery Within Clusters of Upstream Sequences in Plant Genomes"
 collection: publications
 permalink: /publications/2016-08-25_RSAT-plants-2_paper
-excerpt: '...'
+#excerpt: '...'
 date: 2016-08-25
 venue: 'Methods in Molecular Biology'
 paperurl: 'https://doi.org/10.1007/978-1-4939-6396-6_18'

@@ -2,7 +2,7 @@
 title: "Transcriptional Profiling of Midguts Prepared from Trypanosoma/T. congolense-Positive Glossina palpalis palpalis Collected from Two Distinct Cameroonian Foci: Coordinated Signatures of the Midguts' Remodeling As T. congolense-Supportive Niches."
 collection: publications
 permalink: /publications/2017-07-28_glossina_paper
-excerpt: '...'
+#excerpt: '...'
 date: 2017-07-28
 venue: 'Frontiers in Immunology'
 paperurl: 'https://doi.org/10.3389/fimmu.2017.00876'

@@ -2,7 +2,7 @@
 title: "Multi-parametric cytometry from a complex cellular sample: Improvements and limits of manual versus computational-based interactive analyses"
 collection: publications
 permalink: /publications/2016-04-05_cytometry_paper
-excerpt: '...'
+#excerpt: '...'
 date: 2016-04-05
 venue: 'Cytometry Part A'
 paperurl: 'http://dx.doi.org.gate2.inist.fr/10.1002/cyto.a.22850'
