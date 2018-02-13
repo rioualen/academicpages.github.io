@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Your Name / Site Title"
+locale                   : "fr-FR"
+title                    : "Claire Rioualen"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -15,7 +15,7 @@ url                      : https://rioualen.github.io # the base hostname & prot
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "rioualen/rioualen.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
-breadcrumbs              : false # true, false (default)
+breadcrumbs              : true # true, false (default)
 words_per_minute         : 160
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
 comments:
@@ -111,7 +111,8 @@ author:
   youtube          :
   wikipedia        :
 
-# Reasearch gate https://www.researchgate.net/profile/Claire_Rioualen
+# Research gate https://www.researchgate.net/profile/Claire_Rioualen
+# Pubmed https://www.ncbi.nlm.nih.gov/pubmed?term=Rioualen+C[Author]
 
 
 # Reading Files

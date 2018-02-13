@@ -9,6 +9,7 @@ location: "Lyon, France"
 ---
 
 [Official website off the event](https://jobim2016.sciencesconf.org/)
+[Proceedings](https://jobim2016.sciencesconf.org/conference/jobim2016/pages/book_jobim2016.pdf)
 
 Snakemake workflows deployed on virtual environments: a promising way of integrating high-throughput data in RegulonDB
 
