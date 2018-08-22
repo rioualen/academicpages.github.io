@@ -1,8 +1,8 @@
 var addressPoints = [
   [
-    "Berkeley CA, USA",
-    37.8708393,
-    -122.2728638
+    "Jiutepec, Mexico, https://www.flickr.com/photos/144672066@N08/albums/72157676318694993",
+    18.881675,
+    -99.176625
   ],
   [
     "London, UK",
