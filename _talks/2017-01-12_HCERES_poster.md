@@ -8,12 +8,13 @@ date: 2017-01-12
 location: "Marseille, France"
 ---
 
-[Theories and Approaches of Genomic Complexity (TAGC)](https://tagc.univ-amu.fr/)
+* [Poster](http://rioualen.github.io/files/2017-01-12_HCERES_poster.pdf)
+* [Theories and Approaches of Genomic Complexity (TAGC)](https://tagc.univ-amu.fr/)
 
-Gene-regulation project: high-throughput approaches for robust NGS data analyses
+**Gene-regulation project: high-throughput approaches for robust NGS data analyses**
 
-C Rioualen, J van Helden
+*Claire Rioualen, Jacques van Helden*
 
-Poster available [here](http://rioualen.github.io/files/2017-01-12_HCERES_poster.pdf)
+
 
 

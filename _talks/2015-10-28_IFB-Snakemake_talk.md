@@ -11,9 +11,9 @@ location: "Marseille, France"
 * [Slides](http://rioualen.github.io/files/2015-10-28_IFB-Snakemake_slides.pdf)
 * [Theories and Approaches of Genomic Complexity (TAGC)](https://tagc.univ-amu.fr/)
 
-IFB cloud: Integration of snakemake workflows in an appliance designed for ChIP-seq analysis
+**IFB cloud: Integration of snakemake workflows in an appliance designed for ChIP-seq analysis**
 
-Claire Rioualen
+*Claire Rioualen*
 
 
 

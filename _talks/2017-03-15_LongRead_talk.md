@@ -8,12 +8,13 @@ date: 2017-03-15
 location: "Marseille, France"
 ---
 
-[Theories and Approaches of Genomic Complexity (TAGC)](https://tagc.univ-amu.fr/)
+* [Slides](http://rioualen.github.io/files/2017-03_15_LongRead_slides.pdf)
+* [Theories and Approaches of Genomic Complexity (TAGC)](https://tagc.univ-amu.fr/)
 
-Long-read: assets and challenges of a (not so) emerging technology
+**Long-read: assets and challenges of a (not so) emerging technology**
 
-C Rioualen
+*Claire Rioualen*
 
-Slides available [here](http://rioualen.github.io/files/2017-03_15_LongRead_slides.pdf)
+
 
 

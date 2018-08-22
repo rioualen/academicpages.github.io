@@ -8,12 +8,13 @@ date: 2016-02-18
 location: "Marseille, France"
 ---
 
-[Theories and Approaches of Genomic Complexity (TAGC)](https://tagc.univ-amu.fr/)
+* [Slides](http://rioualen.github.io/files/2016-02-18_AlphaGo_slides.pdf)
+* [Theories and Approaches of Genomic Complexity (TAGC)](https://tagc.univ-amu.fr/)
 
-Artificial Intelligence: Facebook loses to Google in race to solve the ancient game of Go
+**Artificial Intelligence: Facebook loses to Google in race to solve the ancient game of Go**
 
-C Rioualen
+*Claire Rioualen*
 
-Slides available [here](http://rioualen.github.io/files/2016-02-18_AlphaGo_slides.pdf)
+
 
 

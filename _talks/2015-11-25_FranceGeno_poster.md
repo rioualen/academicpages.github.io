@@ -1,5 +1,5 @@
 ---
-title: "Développement de workflows pour l'analyse ChIP-seq sous Snakemake et déploiement d'une machine virtuelle sur le cloud IFB. [FR]"
+title: "Développement de workflows pour l'analyse ChIP-seq sous Snakemake et déploiement d'une machine virtuelle sur le cloud IFB [FR]"
 collection: talks
 type: "Poster"
 permalink: /talks/2015-11-25_FranceGeno_poster
@@ -8,7 +8,8 @@ date: 2015-11-25
 location: "Paris, France"
 ---
 
-[France Génomique](https://www.france-genomique.org/)
+* [Poster](http://rioualen.github.io/files/2015-11-25_FranceGeno_poster.pdf)
+* [France Génomique](https://www.france-genomique.org/)
 
 Développement de workflows pour l'analyse ChIP-seq sous Snakemake et déploiement d'une machine virtuelle sur le cloud IFB.
 
@@ -26,6 +27,6 @@ Dans le cadre du WP2.6, nous avons développé un catalogue de règles collabora
 Ce travail collaboratif a donné lieu à un projet git hébergé le service SourceSup/Renater, et comprend également un catalogue de règles adaptées au RNA-seq, avec l'ojectif de permettre des analyses intégrées.
 Un manuel est en cours de rédaction pour faciliter l'installation et l'utilisation de Snakemake. Ceci permettra également de favoriser l'analyse en production et le benchmarking d'outils de peak-calling. Enfin une machine virtuelle, actuellement développée sur le cloud de l'Institut Français de Bioinformatique (IFB), permettra dès son déploiement l'usage des workflows par tout utilisateur en garantissant leur portabilité.
 
-Poster available [here](http://rioualen.github.io/files/2015-11-25_FranceGeno_poster.pdf)
+
 
 

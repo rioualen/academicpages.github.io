@@ -17,9 +17,9 @@ location: "Carry-le-Rouet, France"
 *Claire Rioualen, Quentin Da Costa, Rita El-Helou, Emmanuelle Charafe-Jauffret, Christophe Ginestier, Sophie Vasseur, Fabienne Guillaumond-Marchai, 
 Eric Mas, Guillaume Pinna, Annick Harel-Bellan, Ghislain Bidaut*
 
-*Centre de Recherche en Cancérologie de Marseille, Inserm U1068, CNRS UMR7258, Aix-Marseille Université, Institut Paoli-Calmettes, Marseille, 13009, France*
-*CRO2, Inserm UMR 911, Marseille, 13005, France*
-*Plateforme ARN interference PArI, CEA SACLAY, Gif-sur-Yvette,France*
+* *Centre de Recherche en Cancérologie de Marseille, Inserm U1068, CNRS UMR7258, Aix-Marseille Université, Institut Paoli-Calmettes, Marseille, 13009, France*
+* *CRO2, Inserm UMR 911, Marseille, 13005, France*
+* *Plateforme ARN interference PArI, CEA SACLAY, Gif-sur-Yvette,France*
 
 Nous avons développé un pipeline permettant d'intégrer plusieurs niveaux de données biologiques : interactions protéine-protéine (interactome), facteurs de transcription-gènes cibles (régulome) et données d'expression (transcriptome). Les réseaux, interactome et régulome, sont construits à partir de bases de données publiques. 
 La première partie du pipeline consiste à détecter des clusters de gènes différentiellement exprimés dans l'un ou l'autre de ces réseaux, en appliquant l'algorithme ITI1 (Interactome-Transcriptome Integration, Garcia et al. 2012) à des données d'expression. Une seconde partie, optionnelle, permet de croiser les sous-réseaux ainsi isolés dans l'interactome et le régulome. 

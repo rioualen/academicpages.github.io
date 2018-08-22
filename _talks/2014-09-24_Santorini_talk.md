@@ -15,7 +15,7 @@ location: "Fira, Santorini, Greece"
 
 *Claire Rioualen, Rita El-Helou, Emmanuelle Charafe-Jauffret, Christophe Ginestier, Ghislain Bidaut*
 
-*Centre de Recherche en Cancérologie de Marseille, Inserm U10681, CNRS UMR72582, Aix-Marseille Université3, Institut Paoli-Calmettes4, Marseille, 13009, France.*
+* *Centre de Recherche en Cancérologie de Marseille, Inserm U10681, CNRS UMR7258, Aix-Marseille Université, Institut Paoli-Calmettes, Marseille, 13009, France*
 
 **Background.** Tumor-initiating cells have been characterized in multiple cancers, including breast cancer (BC). So-called cancer stem cells (CSCs) present key stem cell properties including self-renewal (which drives tumorigenesis) and differentiation. They show resistance to conventional cancer therapies, and are thought to be the seed for the distant metastasis responsible for poor clinical outcomes. Unraveling deregulated mechanisms that are sustaining self-renewal and differentiation specific to CSCs is an essential step for the discovery of new research avenues and treatment in BC.
 

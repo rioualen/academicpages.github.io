@@ -8,13 +8,14 @@ date: 2016-12-12
 location: "Paris, France"
 ---
 
-[Pasteur Institute](https://www.pasteur.fr)
-[Event](https://c3bi.pasteur.fr/news-journee-snakemake/)
+* [Slides](http://rioualen.github.io/files/2016-12-12_Cobras_slides.pdf)
+* [Pasteur Institute](https://www.pasteur.fr)
+* [Event](https://c3bi.pasteur.fr/news-journee-snakemake/)
 
-Développement de workflows pour le NGS - Exécution dans un environnement virtuel
+**Développement de workflows pour le NGS - Exécution dans un environnement virtuel**
 
-C Rioualen
+*Claire Rioualen*
 
-Slides available [here](http://rioualen.github.io/files/2016-12-12_Cobras_slides.pdf)
+
 
 
