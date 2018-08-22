@@ -1,14 +1,15 @@
 ---
-title: "17th Open Days in Biology, Computer Science and Mathematics (JOBIM) "
+title: "Snakemake workflows deployed on virtual environments: a promising way of integrating high-throughput data in RegulonDB"
 collection: talks
 type: "Poster"
 permalink: /talks/2016-06-28_JOBIM_poster
-venue: "École normale supérieure de Lyon"
+venue: "17th Open Days in Biology, Computer Science and Mathematics (JOBIM)"
 date: 2016-06-28
-location: "Lyon, France"
+location: "École normale supérieure de Lyon, Lyon, France"
 ---
 
 [Official website off the event](https://jobim2016.sciencesconf.org/)
+
 [Proceedings](https://jobim2016.sciencesconf.org/conference/jobim2016/pages/book_jobim2016.pdf)
 
 Snakemake workflows deployed on virtual environments: a promising way of integrating high-throughput data in RegulonDB

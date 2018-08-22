@@ -1,5 +1,5 @@
 ---
-title: "TAGC laboratory evaluation"
+title: "Gene-regulation project: high-throughput approaches for robust NGS data analyses"
 collection: talks
 type: "Poster"
 permalink: /talks/2017-01-12_HCERES_poster

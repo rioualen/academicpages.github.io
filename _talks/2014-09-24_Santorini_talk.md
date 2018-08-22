@@ -1,9 +1,9 @@
 ---
-title: "7th Santorini Conference on Biology Prospective"
+title: "Cancer stem cells regulatory circuit is deciphered through an interactome–regulome–transcriptome integrative approach"
 collection: talks
 type: "Talk"
 permalink: /talks/2014-09-24_Santorini_talk
-venue: "Petros M. Nomikos Conference Centre"
+venue: "7th Santorini Conference on Biology Prospective - sPetros M. Nomikos Conference Centre"
 date: 2014-09-24
 location: "Fira, Santorini, Greece"
 ---
@@ -12,7 +12,7 @@ location: "Fira, Santorini, Greece"
 
 Cancer stem cells regulatory circuit is deciphered through an interactome–regulome–transcriptome integrative approach.
 
-C Rioualen, R El-Helou, E Charafe-Jauffret, C Ginestier, G Bidaut
+C Rioualen, R El-Helou, E Charafe-Jauffret,  Ginestier, G Bidaut
 
 Centre de Recherche en Cancérologie de Marseille, Inserm U10681, CNRS UMR72582, Aix-Marseille Université3, Institut Paoli-Calmettes4, Marseille, 13009, France.
 

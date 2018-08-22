@@ -1,9 +1,9 @@
 ---
-title: "Journée Snakemake - C3BI [FR]"
+title: "Développement de workflows pour le NGS - Exécution dans un environnement virtuel [FR]"
 collection: talks
 type: "Talk"
 permalink: /talks/2016-12-12_Cobras_talk
-venue: "Pasteur Institute"
+venue: "Journée Snakemake - C3BI - Pasteur Institute"
 date: 2016-12-12
 location: "Paris, France"
 ---

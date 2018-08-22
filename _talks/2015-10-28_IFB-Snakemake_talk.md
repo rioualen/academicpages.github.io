@@ -1,9 +1,9 @@
 ---
-title: "Internal seminar - Bioinformatics meeting"
+title: "IFB cloud: Integration of snakemake workflows in an appliance designed for ChIP-seq analysis"
 collection: talks
 type: "Talk"
 permalink: /talks/2015-10-28_IFB-Snakemake_talk
-venue: "Theories and Approaches of Genomic Complexity (TAGC)"
+venue: "Internal seminar - Bioinformatics meeting - Theories and Approaches of Genomic Complexity (TAGC)"
 date: 2015-10-28
 location: "Marseille, France"
 ---

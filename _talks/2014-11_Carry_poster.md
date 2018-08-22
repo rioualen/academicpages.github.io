@@ -1,14 +1,15 @@
 ---
-title: "Retraite du CRCM [FR]"
+title: "Une approche réseau pour découvrir les voies impliquées dans certains cancers [FR]"
 collection: talks
 type: "Poster"
 permalink: /talks/2014-11_Carry_poster
-venue: "Carry-le-Rouet"
+venue: "CRCM retreat"
 date: 2014-09-24
 location: "Carry-le-Rouet, France"
 ---
 
 [Centre de Recherche en Cancérologie de Marseille (CRCM)](http://crcm.marseille.inserm.fr/)
+
 [Plateforme de Bioinformatique Intégrative (Cibi)](https://cibi.marseille.inserm.fr/)
 
 Une approche réseau pour découvrir les voies impliquées dans certains cancers

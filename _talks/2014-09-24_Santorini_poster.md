@@ -1,9 +1,9 @@
 ---
-title: "7th Santorini Conference on Biology Prospective"
+title: "Interactome–regulome–transcriptome integrative approach as a mean to disclose cancer stem cells regulatory circuits"
 collection: talks
 type: "Poster"
 permalink: /talks/2014-09-24_Santorini_poster
-venue: "Petros M. Nomikos Conference Centre"
+venue: "7th Santorini Conference on Biology Prospective - Petros M. Nomikos Conference Centre"
 date: 2014-09-24
 location: "Fira, Santorini, Greece"
 ---

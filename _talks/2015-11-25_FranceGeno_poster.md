@@ -1,9 +1,9 @@
 ---
-title: "Assemblée Générale France Génomique [FR]"
+title: "Développement de workflows pour l'analyse ChIP-seq sous Snakemake et déploiement d'une machine virtuelle sur le cloud IFB. [FR]"
 collection: talks
 type: "Poster"
 permalink: /talks/2015-11-25_FranceGeno_poster
-venue: "Novotel Paris 13 Porte d'Italie, Le Kremlin-Bicêtre"
+venue: "Assemblée Générale France Génomique"
 date: 2015-11-25
 location: "Paris, France"
 ---

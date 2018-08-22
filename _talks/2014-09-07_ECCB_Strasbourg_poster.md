@@ -1,16 +1,16 @@
 ---
-title: "13th European Conference on Computational Biology"
+title: "Interactome-regulome integrative approach for genome-wide screening data analysis in a breast cancer stem cells study"
 collection: talks
 type: "Talk"
 permalink: /talks/2014-09-07_ECCB_Strasbourg_poster
-venue: "Strasbourg Congress Centre"
+venue: "13th European Conference on Computational Biology"
 date: 2014-09-07
 location: "Strasbourg, France"
 ---
 
 [Proceedings](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4147932/)
 
-Interactome–regulome integrative approach for genome-wide screening data analysis in a breast cancer stem cells study
+Interactome-regulome integrative approach for genome-wide screening data analysis in a breast cancer stem cells study
 
 C Rioualen,  Q Da Costa, G Pinna,  A Harel-Bellan,  E Charafe-Jauffret, C Ginestier, G Bidaut
 

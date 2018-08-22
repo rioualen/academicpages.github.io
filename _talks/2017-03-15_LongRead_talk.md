@@ -1,9 +1,9 @@
 ---
-title: "Internal seminar - Bioinformatics meeting"
+title: "Long-read: assets and challenges of a (not so) emerging technology"
 collection: talks
 type: "Talk"
 permalink: /talks/2017-03-15_LongRead_talk
-venue: "Theories and Approaches of Genomic Complexity (TAGC)"
+venue: "Internal seminar - Bioinformatics meeting - Theories and Approaches of Genomic Complexity (TAGC)"
 date: 2017-03-15
 location: "Marseille, France"
 ---

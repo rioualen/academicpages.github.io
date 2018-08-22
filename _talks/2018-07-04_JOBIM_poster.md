@@ -1,14 +1,15 @@
 ---
-title: "19th Open Days in Biology, Computer Science and Mathematics (JOBIM) "
+title: "Characterization of Escherichia coli K-12 regulatory networks by bioinformatics integration of high-throughput data."
 collection: talks
 type: "Poster"
 permalink: /talks/2018-07-04_JOBIM_poster
-venue: "Palais du Pharo"
+venue: "19th Open Days in Biology, Computer Science and Mathematics (JOBIM)"
 date: 2018-07-04
-location: "Marseille, France"
+location: "Palais du Pharo, Marseille, France"
 ---
 
 [Official website of the event](https://jobim2018.sciencesconf.org/)
+
 [Proceedings](https://jobim2018.sciencesconf.org/data/pages/Book_JOBIM2018_V_4.pdf)
 
 Characterization of Escherichia coli K-12 regulatory networks by bioinformatics integration of high-throughput data.
