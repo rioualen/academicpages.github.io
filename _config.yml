@@ -269,7 +269,7 @@ whitelist:
   - jekyll-gist
   - jekyll-feed
   - jemoji
-
+theme: slate
 
 # Archives
 #  Type
