@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/2017-03-15_LongRead_talk
 venue: "Theories and Approaches of Genomic Complexity (TAGC)"
-date: 2014-09-24
+date: 2017-03-15
 location: "Marseille, France"
 ---
 
