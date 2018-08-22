@@ -8,6 +8,8 @@ date: 2014-09-07
 location: "Strasbourg, France"
 ---
 
+Poster available [here](http://rioualen.github.io/files/2014-09-07_ECCB_Strasbourg_poster.pdf)
+
 [Proceedings](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4147932/)
 
 Interactome-regulome integrative approach for genome-wide screening data analysis in a breast cancer stem cells study
