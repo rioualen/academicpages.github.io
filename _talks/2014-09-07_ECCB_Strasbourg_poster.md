@@ -8,7 +8,7 @@ date: 2014-09-07
 location: "Strasbourg, France"
 ---
 
-Poster available [here](http://rioualen.github.io/files/2014-09-07_ECCB_Strasbourg_poster.pdf)
+ * [Poster](http://rioualen.github.io/files/2014-09-07_ECCB_Strasbourg_poster.pdf)
  * [Website of the event](https://www.ebi.ac.uk/eccb/2014/eccb14.loria.fr/home.html)
  * [Proceedings](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4147932/)
 
