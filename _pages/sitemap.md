@@ -1,4 +1,4 @@
----
+o---
 layout: archive
 title: "Sitemap"
 permalink: /sitemap/

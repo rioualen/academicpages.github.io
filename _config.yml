@@ -169,6 +169,8 @@ kramdown:
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
 
+#Theme
+theme: slate
 
 # Collections
 collections:
@@ -269,7 +271,7 @@ whitelist:
   - jekyll-gist
   - jekyll-feed
   - jemoji
-theme: slate
+
 
 # Archives
 #  Type
