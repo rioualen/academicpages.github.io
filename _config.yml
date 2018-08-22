@@ -79,14 +79,14 @@ analytics:
 # Site Author
 author:
   name             : "Claire Rioualen"
-  avatar           : "profile.png"
+  avatar           : "me.jpg"
   bio              : "Bioinformatics Engineer"
   location         : "Marseille, France"
   employer         :
   googlescholar    :
   email            :
   uri              :
-  bitbucket        :
+  bitbucket        : "rioualen"
   codepen          :
   dribbble         :
   flickr           :
@@ -95,7 +95,7 @@ author:
   github           : "rioualen"
   google_plus      :
   keybase          :
-  instagram        : "rioualenc"
+  instagram        : "nlitb"
   lastfm           :
   linkedin         : "claire-rioualen"
   orcid            : "https://orcid.org/0000-0002-7684-8679"
@@ -189,16 +189,16 @@ collections:
 # Defaults
 defaults:
   # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
+#  - scope:
+#      path: ""
+#      type: posts
+#    values:
+#      layout: single
+#      author_profile: true
+#      read_time: true
+#      comments: true
+#      share: true
+#      related: true
   # _pages
   - scope:
       path: ""
