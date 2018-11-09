@@ -15,5 +15,5 @@ main:
   - title: "CV"
     url: /cv/
 
-  - title: "Map"
-    url: /talkmap/map.html
+#  - title: "Map"
+#    url: /talkmap/map.html
