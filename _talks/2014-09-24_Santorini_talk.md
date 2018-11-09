@@ -9,6 +9,7 @@ location: "Fira, Santorini, Greece"
 ---
 
 * [Slides](http://rioualen.github.io/files/2014-09-24_Santorini_slides.pdf)
+* [Proceedings](http://www.nsfa.asso.fr/sites/default/files/atoms/files/santorini_conference_of_biology_prospective_25-27_sep_2014.pdf)
 * [European Society on Pharmacogenomics and Personalized Therapy](https://esptnet.eu)
 
 **Cancer stem cells regulatory circuit is deciphered through an interactome–regulome–transcriptome integrative approach**
